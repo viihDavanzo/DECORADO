@@ -1,0 +1,6 @@
+G:\CPPCourse\DECORADO\DECORADO\Source\DECORADO\DECORADO.Build.cs
+G:\CPPCourse\DECORADO\DECORADO\Plugins\socketio-client-ue4\Source\SIOJEditorPlugin\SIOJEditorPlugin.Build.cs
+G:\CPPCourse\DECORADO\DECORADO\Plugins\socketio-client-ue4\Source\SIOJson\SIOJson.Build.cs
+G:\CPPCourse\DECORADO\DECORADO\Plugins\socketio-client-ue4\Source\SocketIOClient\SocketIOClient.Build.cs
+G:\CPPCourse\DECORADO\DECORADO\Source\DECORADO.Target.cs
+G:\CPPCourse\DECORADO\DECORADO\Source\DECORADOEditor.Target.cs
